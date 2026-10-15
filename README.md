@@ -1,5 +1,6 @@
 # But de la librairie
-La présente libairie à pour but de résoudre les probèmes de type:
+
+La présente librairie à pour but de résoudre les problèmes de type:
 
 Une société de consultant doit organiser les affectations à venir d'une de ses équipes
 
@@ -11,7 +12,7 @@ On obtient par contre $h_i$ pour un travail difficile.
 Effectuer un travail difficile en semaine $i$ nécessite d'avoir eu une semaine
 de repos en $i-1$.
 
-Donner une organisation optimal étant donnés $l_1,\ldots,l_n$ et $h_1,\ldots,h_n$.
+Donner une organisation optimale étant donnés $l_1,\ldots,l_n$ et $h_1,\ldots,h_n$.
 
 # Fonctionnalités
 Nous avons développé cette bibliothèque dans une optique de gestion de plusieurs fichiers clients et ce de façon indépendantes. Ainsi on a les fonctionnalités suivantes:
